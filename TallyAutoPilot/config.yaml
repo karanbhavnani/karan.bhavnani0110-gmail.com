@@ -1,7 +1,7 @@
 
-openai_key: "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"
+openai_key: ""
 email_sender: "karan.bhavnani0110@gmail.com"
-email_password: "liqdqduwxjmrhxcr"
+email_password: ""
 email_receiver: "notify@rupanibusiness.com"
 smtp_server: "smtp.gmail.com"
 smtp_port: 587
