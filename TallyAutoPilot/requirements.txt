@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+PyYAML
+openai
+pdf2image
+pytesseract
+Pillow
